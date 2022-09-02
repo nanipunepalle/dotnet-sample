@@ -1,0 +1,7 @@
+C:\Users\PunepalleRav\source\repos\DockerTest\DockerTest\published\DockerTest.exe
+C:\Users\PunepalleRav\source\repos\DockerTest\DockerTest\published\appsettings.Development.json
+C:\Users\PunepalleRav\source\repos\DockerTest\DockerTest\published\appsettings.json
+C:\Users\PunepalleRav\source\repos\DockerTest\DockerTest\published\DockerTest.dll
+C:\Users\PunepalleRav\source\repos\DockerTest\DockerTest\published\DockerTest.deps.json
+C:\Users\PunepalleRav\source\repos\DockerTest\DockerTest\published\DockerTest.runtimeconfig.json
+C:\Users\PunepalleRav\source\repos\DockerTest\DockerTest\published\DockerTest.pdb

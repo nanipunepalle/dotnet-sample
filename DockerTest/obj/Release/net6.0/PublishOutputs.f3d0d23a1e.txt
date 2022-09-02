@@ -1,0 +1,12 @@
+C:\Users\PunepalleRav\source\repos\DockerTest\DockerTest\obj\Release\net6.0\PubTmp\Out\DockerTest.exe
+C:\Users\PunepalleRav\source\repos\DockerTest\DockerTest\obj\Release\net6.0\PubTmp\Out\published\web.config
+C:\Users\PunepalleRav\source\repos\DockerTest\DockerTest\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\Users\PunepalleRav\source\repos\DockerTest\DockerTest\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\Users\PunepalleRav\source\repos\DockerTest\DockerTest\obj\Release\net6.0\PubTmp\Out\published\appsettings.Development.json
+C:\Users\PunepalleRav\source\repos\DockerTest\DockerTest\obj\Release\net6.0\PubTmp\Out\published\appsettings.json
+C:\Users\PunepalleRav\source\repos\DockerTest\DockerTest\obj\Release\net6.0\PubTmp\Out\published\DockerTest.deps.json
+C:\Users\PunepalleRav\source\repos\DockerTest\DockerTest\obj\Release\net6.0\PubTmp\Out\published\DockerTest.runtimeconfig.json
+C:\Users\PunepalleRav\source\repos\DockerTest\DockerTest\obj\Release\net6.0\PubTmp\Out\DockerTest.dll
+C:\Users\PunepalleRav\source\repos\DockerTest\DockerTest\obj\Release\net6.0\PubTmp\Out\DockerTest.deps.json
+C:\Users\PunepalleRav\source\repos\DockerTest\DockerTest\obj\Release\net6.0\PubTmp\Out\DockerTest.runtimeconfig.json
+C:\Users\PunepalleRav\source\repos\DockerTest\DockerTest\obj\Release\net6.0\PubTmp\Out\DockerTest.pdb
